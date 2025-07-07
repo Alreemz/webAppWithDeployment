@@ -1,0 +1,1 @@
+import React from 'react'; import TeamForm from './components/TeamForm'; import RoleForm from './components/RoleForm'; import AssignRole from './components/AssignRole'; function App() { return (<div><h1>Team & Role Management</h1><TeamForm/><RoleForm/><AssignRole/></div>); } export default App;
